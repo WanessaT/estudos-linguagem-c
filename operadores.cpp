@@ -17,6 +17,6 @@ int main(){
 	printf("Soma: %d.\n", soma);
 	printf("Subtr.: %d.\n", subtrai);
 	printf("Multiplic.: %d.\n", multiplica);
-	printf("Divis.: %d.\n", divisao);
-	
+	printf("Divis.: %d.\n", divisao);	
 }
+
